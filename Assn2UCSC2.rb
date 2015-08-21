@@ -1,4 +1,5 @@
-uthor - John McKellar (johnm)
+#
+#  Author - John McKellar (johnm)
 #  Course - U.C. Santa Cruz 21342.(036)
 #  Assignment #2 - Ruby
 #  August 10, 2015
