@@ -203,7 +203,7 @@ class PrimeNumberPrinter
     #    col_index - column index to position the candidate within the matrix.
     #
     #  OUTPUT:
-    #    None.
+    #    The newly computed column index from left to right.
     #
     #  REVISION HISTORY:
     #    08/03/15 johnm - initial coding.
