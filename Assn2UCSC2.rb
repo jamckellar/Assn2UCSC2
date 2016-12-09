@@ -48,7 +48,7 @@ class PrimeNumberPrinter
       else # use default algorithm
         thirdPrimeList
     end # case
-  end #initialize
+  end # initialize
 
 
 
