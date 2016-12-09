@@ -32,7 +32,7 @@ class PrimeNumberPrinter
   #  PARAMETERS:
   #    None.
   #
-  #  OUTPUT:
+  #  RETURNS:
   #    None.
   #
   #  REVISION HISTORY:
@@ -60,7 +60,7 @@ class PrimeNumberPrinter
   #  PARAMETERS:
   #    None.
   #
-  #  OUTPUT:
+  #  RETURNS:
   #    None.
   #
   #  REVISION HISTORY:
@@ -89,7 +89,7 @@ class PrimeNumberPrinter
   #  PARAMETERS:
   #    None.
   #
-  #  OUTPUT:
+  #  RETURNS:
   #    None.
   #
   #  REVISION HISTORY:
@@ -119,7 +119,7 @@ class PrimeNumberPrinter
   #  PARAMETERS:
   #    None.
   #
-  #  OUTPUT:
+  #  RETURNS:
   #    None.
   #
   #  REVISION HISTORY:
@@ -149,7 +149,7 @@ class PrimeNumberPrinter
     #  PARAMETERS:
     #    prime_candidate - a positive integer to be examined for primality.
     #
-    #  OUTPUT:
+    #  RETURNS:
     #    True if the candidate is determined to be prime, false otherwise.
     #
     #  REVISION HISTORY:
@@ -179,7 +179,7 @@ class PrimeNumberPrinter
     #    prime_candidate - a positivie number to be examined for primality.
     #    col_index - column index to position the candidate within the matrix.
     #
-    #  OUTPUT:
+    #  RETURNS:
     #    None.
     #
     #  REVISION HISTORY:
@@ -202,7 +202,7 @@ class PrimeNumberPrinter
     #  PARAMETERS:
     #    col_index - column index to position the candidate within the matrix.
     #
-    #  OUTPUT:
+    #  RETURNS:
     #    The newly computed column index from left to right.
     #
     #  REVISION HISTORY:
